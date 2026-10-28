@@ -4,7 +4,7 @@ Meu primeiro projeto desenvolvido no Debian Linux e versionado com Git.
 
 ## Tecnologias utilizadas
 
-- Linux Debian
+- Debian Linux
 - Git
 - HTML5
 
@@ -15,3 +15,4 @@ Aprender desenvolvimento web, controle de versões e publicação de sites com G
 ## Autor
 
 GitHub: [@cemssouza1-arch](https://github.com/cemssouza1-arch)
+
